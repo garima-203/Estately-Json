@@ -1,0 +1,1871 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "location": "Noida, Uttar Pradesh",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "type": "Flat", 
+        "price": "₹500,000",
+        "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/mt8lcd0_1714997278_490446558_optOrig.jpg",
+        "images": [ 
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/elatn1w_1714997280_490446572_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/vswcpew_1714997280_490446582_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/mnuhb9f_1714997351_490447082_optOrig.jpg"
+        ],
+        "bedrooms": 3,
+        "bathrooms": 2, 
+        "furnish_type" : "Furnished",
+        "status" : "Ready to Move",
+        "parking" : "1 Covered",
+        "super_area": "1,500 sqft",
+        "floor" : "3rd", 
+        "details": "A beautiful 3-bedroom house located in the heart of New York, with easy access to amenities and transportation."
+      },
+      {
+        "id": 2,
+        "location": "Lucknow, Uttar Pradesh, India",
+        "type": "Appartment",
+        "price": "₹750,000",
+        "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+        "images": [
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+        ],
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "furnish_type" : "Semi-Furnished",
+        "status" : "Ready to Move",
+        "parking" : "1 Covered",
+        "super_area": "1,500 sqft",
+        "floor" : "Ground Floor", 
+        "details": "A spacious Appartment property in Los Angeles, ideal for retail or office space, with modern facilities."
+      },
+      {
+        "id": 3,
+        "location": "Indore, Madhya Pradesh, India",
+        "type": "Villa",
+        "price": "₹300,000",
+        "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+        "images": [
+          "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+        ],
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "furnish_type" : "Semi-Furnished",
+        "status" : "Ready to Move",
+        "parking" : "1 Covered",
+        "super_area": "1,500 sqft",
+        "floor" : "1st", 
+        "details": "A prime Villa plot in Chicago suitable for future development or investment."
+      },
+      {
+        "id": 4,
+        "location": "Faridabad, Haryana,India",
+        "type": "Flat",
+        "price": "₹1,200,000",
+        "main_image": "https://newprojects.99acres.com/projects/unknown/county_one_o_seven/images/a9s63cd_1732862912_534266043_optOrig.jpg",
+        "images": [
+          "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/uohm9sg_1735041103_541571229_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2_optOrig.jpeg",
+          "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/eutf0299_optOrig.jpeg"
+        ],
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "furnish_type" : "Furnished",
+        "status" : "Ready to Move",
+        "parking" : "1 Covered",
+        "super_area": "1,500 sqft",
+        "floor" : "3rd", 
+        "details": "A luxurious 5-bedroom villa in Miami with ocean views and state-of-the-art amenities."
+      },
+      {
+          "id": 5,
+          "location": "Visakhapatnam, Andhra Pradesh, India",
+          "type": "Flat",
+          "price": "₹45,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705249O-1731920440007.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705375O-1731920438316.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705347O-1731920439539.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705261O-1731920483067.jpg"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "6th", 
+          "details": "A modern 3-bedroom flat located in a prime area of Andhra Pradesh, with proximity to schools and shopping centers."
+        },
+        {
+          "id": 6,
+          "location": "Bengaluru, Karnataka, India",
+          "type": "Appartment",
+          "price": "₹80,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705361O-1731920424240.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705237O-1731920432182.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705343O-1731920437716.jpg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2.jpeg"
+          ],
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "furnish_type" : "Semi-Furnished",
+          "status" : "Rented",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "3rd", 
+          "details": "A large office space in Bengaluru, perfect for tech startups and established businesses, with multiple meeting rooms."
+        },
+        {
+          "id": 7,
+          "location": "Mumbai, Maharashtra, India",
+          "type": "Flat",
+          "price": "₹2,50,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26583/4/531664515O-1731913863446.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/4/531664825O-1731913870213.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665151O-1731913875820.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665033O-1731913875954.jpg"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "12th", 
+          "details": "A luxurious 4-bedroom penthouse in Mumbai with panoramic city views and premium interiors."
+        },
+        {
+          "id": 8,
+          "location": "New Delhi, Delhi, India",
+          "type": "Villa",
+          "price": "₹1,20,00,000",
+          "main_image": "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/i0xv4vow.jpg",
+          "images": [
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/qbjf9pq5.jpeg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/3afxk4qz.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665751O-1731913872844.jpg"
+          ],
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "Ground Floor", 
+          "details": "A large Flat plot in New Delhi, perfect for constructing a luxury home or villa."
+        },
+        {
+          "id": 9,
+          "location": "Kolkata, West Bengal, India",
+          "type": "Appartment",
+          "price": "₹35,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680753O-1731918080694.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26584/7/531687583O-1731919274512.jpg",
+            "https://imagecdn.99acres.com/media1/26584/1/531681045O-1731918087380.jpg",
+            "https://imagecdn.99acres.com/media1/26584/2/531682537O-1731918080106.jpg"
+          ],
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "3rd", 
+          "details": "A Appartment space in Kolkata suitable for retail or office use, located in a high-traffic area."
+        },
+        {
+          "id": 10,
+          "location": "Chennai, Tamil Nadu, India",
+          "type": "Flat",
+          "price": "₹65,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680561O-1731918067083.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/19/531679947O-1731918074046.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680461O-1731918062464.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680375O-1731918081432.jpg"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "9th", 
+          "details": "A 3-bedroom house in Chennai with a spacious garden and excellent connectivity to major highways."
+        },
+        {
+          "id": 11,
+          "location": "Jaipur, Rajasthan, India",
+          "type": "Flat",
+          "price": "₹80,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26584/7/531687453O-1731919280772.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/19/531679959O-1731918074641.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680257O-1731918077746.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680517O-1731918082196.jpg"
+          ],
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "furnish_type" : "Semi-Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "3rd", 
+          "details": "A beautiful heritage home in Rajasthan, featuring traditional architecture and modern amenities."
+        },
+        {
+          "id": 12,
+          "location": "Panaji, Goa, India",
+          "type": "Flat",
+          "price": "₹75,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26576/17/531537341O-1731837855412.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26576/17/531537343O-1731837848530.jpg",
+            "https://imagecdn.99acres.com/media1/26576/17/531537353O-1731837858733.jpg",
+            "https://imagecdn.99acres.com/media1/26576/17/531537345O-1731837857753.jpg"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "3rd", 
+          "details": "A beachside villa in Goa with stunning views and a private pool, ideal for vacationers."
+        },
+        {
+          "id": 13,
+          "location": "Gurgaon, Haryana, India",
+          "type": "Appartment",
+          "price": "₹90,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+          ],
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "Ground Floor", 
+          "details": "A Appartment office space located in a prominent business area in Haryana, perfect for setting up a corporate office."
+        },
+        {
+          "id": 14,
+          "location": "Chennai, Tamil Nadu, India",
+          "type": "Villa",
+          "price": "₹50,00,000",
+          "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/mt8lcd0_1714997278_490446558_optOrig.jpg",
+          "images": [
+            "https://newprojects.99acres.com/projects/county_group/county_115/images/elatn1w_1714997280_490446572_optOrig.jpg",
+            "https://newprojects.99acres.com/projects/county_group/county_115/images/vswcpew_1714997280_490446582_optOrig.jpg",
+            "https://newprojects.99acres.com/projects/county_group/county_115/images/mnuhb9f_1714997351_490447082_optOrig.jpg"
+          ],
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "2 Floor", 
+          "details": "A vast Villa plot in Tamil Nadu, ideal for Flat or Appartment development."
+        },
+        {
+          "id": 15,
+          "location": "Ludhiana, Punjab, India",
+          "type": "Flat",
+          "price": "₹30,00,000",
+          "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+          "images": [
+            "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+            "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+            "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "8th", 
+          "details": "A cozy 2-bedroom apartment in the city of Punjab, perfect for small families or professionals."
+        },
+        {
+          "id": 16,
+          "location": "Haridwar, Uttarakhand, India",
+          "type": "Flat",
+          "price": "₹1,20,00,000",
+          "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+          "images": [
+            "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+            "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+            "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+          ],
+          "bedrooms": 5,
+          "bathrooms": 4,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "9th", 
+          "details": "A luxury 5-bedroom house in Uttarakhand, offering a tranquil retreat with mountain views."
+        },
+        {
+          "id": 17,
+          "location": "Pune, Maharashtra, India",
+          "type": "Appartment",
+          "price": "₹40,00,000",
+          "main_image": "https://newprojects.99acres.com/projects/unknown/county_one_o_seven/images/a9s63cd_1732862912_534266043_optOrig.jpg",
+          "images": [
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/uohm9sg_1735041103_541571229_optOrig.jpg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2_optOrig.jpeg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/eutf0299_optOrig.jpeg"
+            ],
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "Ground Floor", 
+          "details": "A Appartment space in Maharashtra suitable for setting up a retail store or a small business."
+        },
+        {
+          "id": 18,
+          "location": "Kochi, Kerala, India",
+          "type": "Flat",
+          "price": "₹90,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705249O-1731920440007.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705375O-1731920438316.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705347O-1731920439539.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705261O-1731920483067.jpg"
+          ],
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "1", 
+          "details": "A 4-bedroom villa located in Kerala with lush greenery and proximity to the beach."
+        },
+        {
+          "id": 19,
+          "location": "Guwahati, Assam, India",
+          "type": "Villa",
+          "price": "₹40,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705361O-1731920424240.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705237O-1731920432182.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705343O-1731920437716.jpg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2.jpeg"
+          ],
+          "bedrooms": "3",
+          "bathrooms": "2",
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "-", 
+          "details": "A vast Villa plot in Assam, ideal for agriculture or development."
+        },
+        {
+          "id": 20,
+          "location": "Bhubaneswar, Odisha, India",
+          "type": "Flat",
+          "price": "₹35,00,000",
+          "main_image": "https://imagecdn.99acres.com/media1/26583/4/531664515O-1731913863446.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/4/531664825O-1731913870213.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665151O-1731913875820.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665033O-1731913875954.jpg"
+          ],
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "furnish_type" : "Furnished",
+          "status" : "Ready to Move",
+          "parking" : "1 Covered",
+          "super_area": "1,500 sqft",
+          "floor" : "10th", 
+          "details": "A 2-bedroom house in Odisha, offering a peaceful environment and close proximity to local markets."
+        },
+        {
+              "id": 21,
+              "location": "Mumbai, Maharashtra, India",
+              "type": "Flat",
+              "price": "₹8,000,000",
+              "main_image": "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/i0xv4vow.jpg",
+              "images": [
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/qbjf9pq5.jpeg",
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/3afxk4qz.jpg",
+                "https://imagecdn.99acres.com/media1/26583/5/531665751O-1731913872844.jpg"
+              ],
+              "bedrooms": 3,
+              "bathrooms": 2,
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "22nd", 
+              "details": "A luxury 3-bedroom apartment in the heart of Mumbai with excellent connectivity and modern amenities."
+            },
+            {
+              "id": 22,
+              "location": "Delhi, Delhi, India",
+              "type": "Appartment",
+              "price": "₹15,000,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680753O-1731918080694.jpg",
+              "images": [
+                "https://imagecdn.99acres.com/media1/26584/7/531687583O-1731919274512.jpg",
+                "https://imagecdn.99acres.com/media1/26584/1/531681045O-1731918087380.jpg",
+                "https://imagecdn.99acres.com/media1/26584/2/531682537O-1731918080106.jpg"
+              ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "Ground Floor", 
+              "details": "A prime Appartment property located in central Delhi, perfect for setting up an office or retail business."
+            },
+            {
+              "id": 23,
+              "location": "Kolkata, West Bengal, India",
+              "type": "Flat",
+              "price": "₹4,500,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680561O-1731918067083.jpg",
+              "images": [
+                "https://imagecdn.99acres.com/media1/26583/19/531679947O-1731918074046.jpg",
+                "https://imagecdn.99acres.com/media1/26584/0/531680461O-1731918062464.jpg",
+                "https://imagecdn.99acres.com/media1/26584/0/531680375O-1731918081432.jpg"
+              ],
+              "bedrooms": 2,
+              "bathrooms": 1,
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "19th", 
+              "details": "A cozy 2-bedroom flat located in a calm and peaceful area of Kolkata, ideal for families."
+            },
+            {
+              "id": 24,
+              "location": "Chennai, Tamil Nadu, India",
+              "type": "Villa",
+              "price": "₹2,500,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26584/7/531687453O-1731919280772.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/19/531679959O-1731918074641.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680257O-1731918077746.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680517O-1731918082196.jpg"
+          ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "3rd", 
+              "details": "A large Villa plot in Chennai, perfect for development or agricultural purposes."
+            },
+            {
+              "id": 25,
+              "location": "Bangalore, Karnataka, India",
+              "type": "Appartment",
+              "price": "₹10,000,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26576/17/531537341O-1731837855412.jpg",
+              "images": [
+                "https://imagecdn.99acres.com/media1/26576/17/531537343O-1731837848530.jpg",
+                "https://imagecdn.99acres.com/media1/26576/17/531537353O-1731837858733.jpg",
+                "https://imagecdn.99acres.com/media1/26576/17/531537345O-1731837857753.jpg"
+              ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "Ground Floor", 
+              "details": "A well-maintained Appartment property in Bangalore with a strategic location and great potential for investment."
+            },
+            {
+              "id": 26,
+              "location": "Hyderabad, Telangana, India",
+              "type": "Flat",
+              "price": "₹5,000,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+          ],
+              "bedrooms": 3,
+              "bathrooms": 2,
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "2nd", 
+              "details": "A well-furnished 3-bedroom house in a quiet neighborhood in Hyderabad, perfect for families."
+            },
+            {
+              "id": 27,
+              "location": "Pune, Maharashtra, India",
+              "type": "Villa",
+              "price": "₹3,000,000",
+              "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/mt8lcd0_1714997278_490446558_optOrig.jpg",
+              "images": [
+                "https://newprojects.99acres.com/projects/county_group/county_115/images/elatn1w_1714997280_490446572_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/county_group/county_115/images/vswcpew_1714997280_490446582_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/county_group/county_115/images/mnuhb9f_1714997351_490447082_optOrig.jpg"
+              ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "Ground Floor", 
+              "details": "An expansive plot of Villa in Pune, ideal for Flat or Appartment development."
+            },
+            {
+              "id": 28,
+              "location": "Jaipur, Rajasthan, India",
+              "type": "Flat",
+              "price": "₹6,000,000",
+              "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+              "images": [
+                "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+              ],
+              "bedrooms": 4,
+              "bathrooms": 3,
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "3rd", 
+              "details": "A spacious 4-bedroom house in Jaipur, featuring modern amenities and a beautiful garden."
+            },
+            {
+              "id": 29,
+              "location": "Ahmedabad, Gujarat, India",
+              "type": "Appartment",
+              "price": "₹8,000,000",
+              "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+              "images": [
+                "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+              ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Semi-Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "!st", 
+              "details": "A Appartment space in Ahmedabad, perfect for a showroom or office setup."
+            },
+            {
+              "id": 30,
+              "location": "Surat, Gujarat, India",
+              "type": "Villa",
+              "price": "₹2,800,000",
+              "main_image": "https://newprojects.99acres.com/projects/unknown/county_one_o_seven/images/a9s63cd_1732862912_534266043_optOrig.jpg",
+              "images": [
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/uohm9sg_1735041103_541571229_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2_optOrig.jpeg",
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/eutf0299_optOrig.jpeg"
+              ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Semi-Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "2", 
+              "details": "A large Flat plot of Villa in Surat with easy access to main roads and highways."
+            },
+            {
+              "id": 31,
+              "location": "Chandigarh, Chandigarh, India",
+              "type": "Flat",
+              "price": "₹7,500,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705249O-1731920440007.jpg",
+              "images": [
+                "https://imagecdn.99acres.com/media1/26585/5/531705375O-1731920438316.jpg",
+                "https://imagecdn.99acres.com/media1/26585/5/531705347O-1731920439539.jpg",
+                "https://imagecdn.99acres.com/media1/26585/5/531705261O-1731920483067.jpg"
+              ],
+              "bedrooms": 5,
+              "bathrooms": 4,
+              "details": "A luxurious 5-bedroom villa in Chandigarh, offering a stunning view and premium features."
+            },
+            {
+              "id": 32,
+              "location": "Lucknow, Uttar Pradesh, India",
+              "type": "Flat",
+              "price": "₹5,500,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705361O-1731920424240.jpg",
+              "images": [
+                "https://imagecdn.99acres.com/media1/26585/5/531705237O-1731920432182.jpg",
+                "https://imagecdn.99acres.com/media1/26585/5/531705343O-1731920437716.jpg",
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2.jpeg"
+              ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Semi-Furnished",
+              "status" : "Ready to Move",
+              "parking" : "2 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "Ground Floor", 
+              "details": "A Appartment property in Lucknow, ideal for retail or small business ventures."
+            },
+            {
+              "id": 33,
+              "location": "Nagpur, Maharashtra, India",
+              "type": "Flat",
+              "price": "₹4,000,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26583/4/531664515O-1731913863446.jpg",
+              "images": [
+                "https://imagecdn.99acres.com/media1/26583/4/531664825O-1731913870213.jpg",
+                "https://imagecdn.99acres.com/media1/26583/5/531665151O-1731913875820.jpg",
+                "https://imagecdn.99acres.com/media1/26583/5/531665033O-1731913875954.jpg"
+              ],
+              "bedrooms": 3,
+              "bathrooms": 2,
+              "furnish_type" : "-",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "3rd", 
+              "details": "A beautiful 3-bedroom house in Nagpur, offering a peaceful and comfortable living experience."
+            },
+            {
+              "id": 34,
+              "location": "Indore, Madhya Pradesh, India",
+              "type": "Villa",
+              "price": "₹1,800,000",
+              "main_image": "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/i0xv4vow.jpg",
+              "images": [
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/qbjf9pq5.jpeg",
+                "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/3afxk4qz.jpg",
+                "https://imagecdn.99acres.com/media1/26583/5/531665751O-1731913872844.jpg"
+              ],
+              "bedrooms": "3",
+              "bathrooms": "2",
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "3 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "1", 
+              "details": "A prime plot of Villa in Indore, perfect for development or farming."
+            },
+            {
+              "id": 35,
+              "location": "Visakhapatnam, Andhra Pradesh, India",
+              "type": "Flat",
+              "price": "₹6,800,000",
+              "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680753O-1731918080694.jpg",
+              "images": [
+                "https://imagecdn.99acres.com/media1/26584/7/531687583O-1731919274512.jpg",
+                "https://imagecdn.99acres.com/media1/26584/1/531681045O-1731918087380.jpg",
+                "https://imagecdn.99acres.com/media1/26584/2/531682537O-1731918080106.jpg"
+              ],
+              "bedrooms": 4,
+              "bathrooms": 3,
+              "furnish_type" : "Furnished",
+              "status" : "Ready to Move",
+              "parking" : "1 Covered",
+              "super_area": "1,500 sqft",
+              "floor" : "23rd", 
+              "details": "A luxurious 4-bedroom villa with stunning sea views and state-of-the-art facilities."
+            },
+          
+
+
+
+
+              {
+                "id": 36,
+                "location": "Goa, India",
+                "type": "Flat",
+                "price": "₹12,000,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680561O-1731918067083.jpg",
+                "images": [
+                  "https://imagecdn.99acres.com/media1/26583/19/531679947O-1731918074046.jpg",
+                  "https://imagecdn.99acres.com/media1/26584/0/531680461O-1731918062464.jpg",
+                  "https://imagecdn.99acres.com/media1/26584/0/531680375O-1731918081432.jpg"
+                ],
+                "bedrooms": 5,
+                "bathrooms": 4,
+                "furnish_type" : "Semi-Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "Ground Floor", 
+                "details": "A luxurious 5-bedroom beachfront villa in Goa, offering panoramic views of the sea."
+              },
+              {
+                "id": 37,
+                "location": "Vadodara, India",
+                "type": "Appartment",
+                "price": "₹4,000,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26584/7/531687453O-1731919280772.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/19/531679959O-1731918074641.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680257O-1731918077746.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680517O-1731918082196.jpg"
+          ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "-",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "2", 
+                "details": "A Appartment property located in the prime business district of Vadodara, ideal for offices or retail space."
+              },
+              {
+                "id": 38,
+                "location": "Bhubaneswar, India",
+                "type": "Villa",
+                "price": "₹1,200,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26576/17/531537341O-1731837855412.jpg",
+                "images": [
+                  "https://imagecdn.99acres.com/media1/26576/17/531537343O-1731837848530.jpg",
+                  "https://imagecdn.99acres.com/media1/26576/17/531537353O-1731837858733.jpg",
+                  "https://imagecdn.99acres.com/media1/26576/17/531537345O-1731837857753.jpg"
+                ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "Semi-Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "1", 
+                "details": "A spacious Villa plot in Bhubaneswar with easy access to main roads and future development potential."
+              },
+              {
+                "id": 39,
+                "location": "Noida, India",
+                "type": "Flat",
+                "price": "₹9,500,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+          ],
+                "bedrooms": 4,
+                "bathrooms": 3,
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "2 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "3rd", 
+                "details": "A modern 4-bedroom apartment in Noida with all the necessary amenities and a beautiful garden."
+              },
+              {
+                "id": 40,
+                "location": "Gurgaon, India",
+                "type": "Appartment",
+                "price": "₹20,000,000",
+                "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/mt8lcd0_1714997278_490446558_optOrig.jpg",
+                "images": [
+                  "https://newprojects.99acres.com/projects/county_group/county_115/images/elatn1w_1714997280_490446572_optOrig.jpg",
+                  "https://newprojects.99acres.com/projects/county_group/county_115/images/vswcpew_1714997280_490446582_optOrig.jpg",
+                  "https://newprojects.99acres.com/projects/county_group/county_115/images/mnuhb9f_1714997351_490447082_optOrig.jpg"
+                ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "Not Mentioned", 
+                "details": "A prime Appartment building in Gurgaon, ideal for multinational corporations or large businesses."
+              },
+              {
+                "id": 41,
+                "location": "Thiruvananthapuram, India",
+                "type": "Flat",
+                "price": "₹3,500,000",
+                "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+                "images": [
+                  "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+                  "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+                  "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+                ],
+                "bedrooms": 2,
+                "bathrooms": 1,
+                "furnish_type" : "Semi-Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "17th", 
+                "details": "A beautiful 2-bedroom flat in Thiruvananthapuram, perfect for small families."
+              },
+              {
+                "id": 42,
+                "location": "Kochi, India",
+                "type": "Villa",
+                "price": "₹3,200,000",
+                "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+                "images": [
+                  "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+                  "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+                  "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+                ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "Not Mentioned", 
+                "details": "A plot of Villa located near Kochi's industrial hub, ideal for development or investment."
+              },
+              {
+                "id": 43,
+                "location": "NagaVilla, India",
+                "type": "Flat",
+                "price": "₹4,200,000",
+                "main_image": "https://newprojects.99acres.com/projects/unknown/county_one_o_seven/images/a9s63cd_1732862912_534266043_optOrig.jpg",
+                "images": [
+                  "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/uohm9sg_1735041103_541571229_optOrig.jpg",
+                  "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2_optOrig.jpeg",
+                  "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/eutf0299_optOrig.jpeg"
+                ],
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "2 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "3rd", 
+                "details": "A cozy 3-bedroom house in NagaVilla, ideal for a peaceful family retreat."
+              },
+              {
+                "id": 44,
+                "location": "Patna, India",
+                "type": "Appartment",
+                "price": "₹6,500,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705361O-1731920424240.jpg",
+                "images": [
+                  "https://imagecdn.99acres.com/media1/26585/5/531705237O-1731920432182.jpg",
+                  "https://imagecdn.99acres.com/media1/26585/5/531705343O-1731920437716.jpg",
+                  "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2.jpeg"
+                ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "Not Mentioned", 
+                "details": "A Appartment building with a prime location in Patna, ideal for offices or retail businesses."
+              },
+              {
+                "id": 45,
+                "location": "Pondicherry, India",
+                "type": "Flat",
+                "price": "₹8,200,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+                "images": [
+                  "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+                  "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+                  "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+                ],
+                "bedrooms": 4,
+                "bathrooms": 3,
+                "furnish_type" : "Without Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "3rd", 
+                "details": "A spacious 4-bedroom Flat in Pondicherry, located close to the beach with a private pool."
+              },
+              {
+                "id": 46,
+                "location": "Udaipur, India",
+                "type": "Villa",
+                "price": "₹4,500,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26583/4/531664515O-1731913863446.jpg",
+                "images": [
+                  "https://imagecdn.99acres.com/media1/26583/4/531664825O-1731913870213.jpg",
+                  "https://imagecdn.99acres.com/media1/26583/5/531665151O-1731913875820.jpg",
+                  "https://imagecdn.99acres.com/media1/26583/5/531665033O-1731913875954.jpg"
+                ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "Not Mentioned", 
+                "details": "A plot of Villa in Udaipur, perfect for creating a resort or luxury property."
+              },
+              {
+                "id": 47,
+                "location": "Shimla, India",
+                "type": "Flat",
+                "price": "₹5,200,000",
+                "main_image": "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/i0xv4vow.jpg",
+                "images": [
+                  "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/qbjf9pq5.jpeg",
+                  "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/3afxk4qz.jpg",
+                  "https://imagecdn.99acres.com/media1/26583/5/531665751O-1731913872844.jpg"
+                ],
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "3rd", 
+                "details": "A 3-bedroom house located in the picturesque hills of Shimla, ideal for those seeking tranquility."
+              },
+              {
+                "id": 48,
+                "location": "Dehradun, India",
+                "type": "Appartment",
+                "price": "₹7,000,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680753O-1731918080694.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26584/7/531687583O-1731919274512.jpg",
+            "https://imagecdn.99acres.com/media1/26584/1/531681045O-1731918087380.jpg",
+            "https://imagecdn.99acres.com/media1/26584/2/531682537O-1731918080106.jpg"
+          ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "2 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "Ground Floor", 
+                "details": "A well-located Appartment property in Dehradun, ideal for setting up a guest house or office."
+              },
+              {
+                "id": 49,
+                "location": "Agra, India",
+                "type": "Flat",
+                "price": "₹6,000,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680561O-1731918067083.jpg",
+                "images": [
+                  "https://imagecdn.99acres.com/media1/26583/19/531679947O-1731918074046.jpg",
+                  "https://imagecdn.99acres.com/media1/26584/0/531680461O-1731918062464.jpg",
+                  "https://imagecdn.99acres.com/media1/26584/0/531680375O-1731918081432.jpg"
+                ],
+                "bedrooms": 4,
+                "bathrooms": 3,
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "3rd", 
+                "details": "A luxury 4-bedroom house in Agra with stunning views of the Taj Mahal."
+              },
+              {
+                "id": 50,
+                "location": "Jammu, India",
+                "type": "Appartment",
+                "price": "₹5,500,000",
+                "main_image": "https://imagecdn.99acres.com/media1/26584/7/531687453O-1731919280772.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/19/531679959O-1731918074641.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680257O-1731918077746.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680517O-1731918082196.jpg"
+          ],
+                "bedrooms": "3",
+                "bathrooms": "2",
+                "furnish_type" : "Furnished",
+                "status" : "Ready to Move",
+                "parking" : "1 Covered",
+                "super_area": "1,500 sqft",
+                "floor" : "Ground Floor", 
+                "details": "A Appartment property in Jammu, ideal for establishing a restaurant or retail business."
+              },
+
+
+
+
+
+ 
+                  {
+                    "id": 51,
+                    "location": "Amritsar, Punjab, India",
+                    "type": "Flat",
+                    "price": "₹4,700,000",
+                    "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+                    "images": [
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+                    ],
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "3rd", 
+                    "details": "A charming 3-bedroom house located in the peaceful surroundings of Amritsar."
+                  },
+                  {
+                    "id": 52,
+                    "location": "Amritsar, Punjab, India",
+                    "type": "Flat",
+                    "price": "₹4,700,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26576/17/531537341O-1731837855412.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26576/17/531537343O-1731837848530.jpg",
+            "https://imagecdn.99acres.com/media1/26576/17/531537353O-1731837858733.jpg",
+            "https://imagecdn.99acres.com/media1/26576/17/531537345O-1731837857753.jpg"
+          ],
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "3 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "6th", 
+                    "details": "A charming 3-bedroom house located in the peaceful surroundings of Amritsar."
+                  },
+                  {
+                    "id": 53,
+                    "location": "Srinagar, Jammu and Kashmir, India",
+                    "type": "Villa",
+                    "price": "₹2,800,000",
+                    "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+                    "images": [
+                      "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+                    ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "3rd", 
+                    "details": "A large plot of Villa in Srinagar, offering scenic views and potential for luxury development."
+                  },
+                  {
+                    "id": 54,
+                    "location": "Mysuru, Karnataka, India",
+                    "type": "Flat",
+                    "price": "₹5,400,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+          ],
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "1st", 
+                    "details": "A beautiful 3-bedroom house in Mysuru, with a spacious garden and modern amenities."
+                  },
+                  {
+                    "id": 55,
+                    "location": "Indore, Madhya Pradesh, India",
+                    "type": "Appartment",
+                    "price": "₹10,000,000",
+                    "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+                    "images": [
+                      "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+                    ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A Appartment building in the heart of Indore, perfect for retail stores or office spaces."
+                  },
+                  {
+                    "id": 56,
+                    "location": "Chandigarh, Chandigarh, India",
+                    "type": "Flat",
+                    "price": "₹8,000,000",
+                    "main_image": "https://newprojects.99acres.com/projects/unknown/county_one_o_seven/images/a9s63cd_1732862912_534266043_optOrig.jpg",
+                    "images": [
+                      "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/uohm9sg_1735041103_541571229_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2_optOrig.jpeg",
+                      "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/eutf0299_optOrig.jpeg"
+                    ],
+                    "bedrooms": 4,
+                    "bathrooms": 3,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "2 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Ground Floor", 
+                    "details": "A luxurious 4-bedroom house in Chandigarh with an elegant design and premium facilities."
+                  },
+                  {
+                    "id": 57,
+                    "location": "Kolkata, West Bengal, India",
+                    "type": "Villa",
+                    "price": "₹5,000,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705249O-1731920440007.jpg",
+                    "images": [
+                      "https://imagecdn.99acres.com/media1/26585/5/531705375O-1731920438316.jpg",
+                      "https://imagecdn.99acres.com/media1/26585/5/531705347O-1731920439539.jpg",
+                      "https://imagecdn.99acres.com/media1/26585/5/531705261O-1731920483067.jpg"
+                    ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A well-located Villa parcel in Kolkata, ideal for Flat or Appartment projects."
+                  },
+                  {
+                    "id": 58,
+                    "location": "Jaipur, Rajasthan, India",
+                    "type": "Flat",
+                    "price": "₹7,500,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705361O-1731920424240.jpg",
+                    "images": [
+                      "https://imagecdn.99acres.com/media1/26585/5/531705237O-1731920432182.jpg",
+                      "https://imagecdn.99acres.com/media1/26585/5/531705343O-1731920437716.jpg",
+                      "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2.jpeg"
+                    ],
+                    "bedrooms": 3,
+                    "bathrooms": 3,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "6th", 
+                    "details": "A beautiful 3-bedroom villa in Jaipur, with an attached pool and large outdoor space."
+                  },
+                  {
+                    "id": 59,
+                    "location": "Bhopal, Madhya Pradesh, India",
+                    "type": "Appartment",
+                    "price": "₹6,200,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26583/4/531664515O-1731913863446.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/4/531664825O-1731913870213.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665151O-1731913875820.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665033O-1731913875954.jpg"
+          ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A Appartment property in Bhopal, offering a modern structure for office or business use."
+                  },
+                  {
+                    "id": 60,
+                    "location": "Surat, Gujarat, India",
+                    "type": "Flat",
+                    "price": "₹6,800,000",
+                    "main_image": "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/i0xv4vow.jpg",
+                    "images": [
+                      "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/qbjf9pq5.jpeg",
+                      "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/3afxk4qz.jpg",
+                      "https://imagecdn.99acres.com/media1/26583/5/531665751O-1731913872844.jpg"
+                    ],
+                    "bedrooms": 4,
+                    "bathrooms": 3,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "2 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "4th", 
+                    "details": "A spacious 4-bedroom house in Surat, offering a large garden and close proximity to schools."
+                  },
+                  {
+                    "id": 61,
+                    "location": "Guwahati, Assam, India",
+                    "type": "Villa",
+                    "price": "₹3,500,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680753O-1731918080694.jpg",
+                    "images": [
+                      "https://imagecdn.99acres.com/media1/26584/7/531687583O-1731919274512.jpg",
+                      "https://imagecdn.99acres.com/media1/26584/1/531681045O-1731918087380.jpg",
+                      "https://imagecdn.99acres.com/media1/26584/2/531682537O-1731918080106.jpg"
+                    ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A plot of Villa in Guwahati, perfect for Flat or Appartment development."
+                  },
+                  {
+                    "id": 62,
+                    "location": "Vijayawada, Andhra Pradesh, India",
+                    "type": "Flat",
+                    "price": "₹5,600,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680561O-1731918067083.jpg",
+                    "images": [
+                      "https://imagecdn.99acres.com/media1/26583/19/531679947O-1731918074046.jpg",
+                      "https://imagecdn.99acres.com/media1/26584/0/531680461O-1731918062464.jpg",
+                      "https://imagecdn.99acres.com/media1/26584/0/531680375O-1731918081432.jpg"
+                    ],
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "20th", 
+                    "details": "A lovely 3-bedroom house in Vijayawada with modern interiors and a garden."
+                  },
+                  {
+                    "id": 63,
+                    "location": "Chennai, Tamil Nadu, India",
+                    "type": "Appartment",
+                    "price": "₹9,800,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26584/7/531687453O-1731919280772.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/19/531679959O-1731918074641.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680257O-1731918077746.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680517O-1731918082196.jpg"
+          ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A Appartment property located in the Appartment heart of Chennai, ideal for retail or office space."
+                  },
+                  {
+                    "id": 64,
+                    "location": "Visakhapatnam, Andhra Pradesh, India",
+                    "type": "Flat",
+                    "price": "₹7,200,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26576/17/531537341O-1731837855412.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26576/17/531537343O-1731837848530.jpg",
+            "https://imagecdn.99acres.com/media1/26576/17/531537353O-1731837858733.jpg",
+            "https://imagecdn.99acres.com/media1/26576/17/531537345O-1731837857753.jpg"
+          ],
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A charming 3-bedroom apartment in Visakhapatnam with a sea view and modern facilities."
+                  },
+                  {
+                    "id": 65,
+                    "location": "Kochi, Kerala, India",
+                    "type": "Appartment",
+                    "price": "₹8,500,000",
+                    "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+                    "images": [
+                      "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+                      "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+                      "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+                    ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A Appartment property with a prime location in Kochi, perfect for a boutique or office."
+                  } ,
+                  {
+                    "id": 66,
+                    "location": "Bhubaneswar, Odisha,India", 
+                    "type": "Appartment",
+                    "price": "₹7,500,000",
+                    "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/mt8lcd0_1714997278_490446558_optOrig.jpg",
+        "images": [
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/elatn1w_1714997280_490446572_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/vswcpew_1714997280_490446582_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/mnuhb9f_1714997351_490447082_optOrig.jpg"
+        ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "2 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A Appartment office space located in Bhubaneswar, ideal for businesses or co-working spaces."
+                  },
+                  {
+                    "id":67,
+                    "location": "Patna, Bihar,India", 
+                    "type": "Flat",
+                    "price": "₹4,200,000",
+                    "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+                    "images": [
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+                    ],
+                    "bedrooms": 3,
+                    "bathrooms": 2,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Ground Floor", 
+                    "details": "A 3-bedroom apartment in Patna, offering a comfortable living space with modern amenities."
+                  },
+                  {
+                    "id": 68,
+                    "location": "Agra, Uttar Pradesh, India", 
+                    "type": "Flat",
+                    "price": "₹6,000,000",
+                    "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+        "images": [
+          "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+        ],
+                    "bedrooms": 4,
+                    "bathrooms": 3,
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "20th", 
+                    "details": "A spacious 4-bedroom home in Agra, just a few minutes from the Taj Mahal, ideal for families."
+                  },
+                    {
+                      "id": 69,
+                      "location": "Mumbai, Maharashtra, India", 
+                      "type": "Appartment",
+                      "price": "₹12,000,000",
+                      "main_image": "https://newprojects.99acres.com/projects/unknown/county_one_o_seven/images/a9s63cd_1732862912_534266043_optOrig.jpg",
+                      "images": [
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/uohm9sg_1735041103_541571229_optOrig.jpg",
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2_optOrig.jpeg",
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/eutf0299_optOrig.jpeg"
+                      ],
+                      "bedrooms": 4,
+                      "bathrooms": 3,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "Not Mentioned", 
+                      "details": "A luxurious 4-bedroom apartment in the heart of Mumbai with breathtaking views of the city skyline."
+                    },
+                    {
+                      "id": 70,
+                      "location": "Bengaluru, Karnataka, India", 
+                      "type": "Appartment",
+                      "price": "₹15,000,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705249O-1731920440007.jpg",
+                      "images": [
+                        "https://imagecdn.99acres.com/media1/26585/5/531705375O-1731920438316.jpg",
+                        "https://imagecdn.99acres.com/media1/26585/5/531705347O-1731920439539.jpg",
+                        "https://imagecdn.99acres.com/media1/26585/5/531705261O-1731920483067.jpg"
+                      ],
+                      "bedrooms": "3",
+                      "bathrooms": "2",
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "Not Mentioned", 
+                      "details": "A prime Appartment office space located in the tech hub of Bengaluru, perfect for startups or corporations."
+                    },
+                    {
+                      "id": 71,
+                      "location": "Hyderabad, Telangana, India", 
+                      "type": "Flat",
+                      "price": "₹8,000,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705361O-1731920424240.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705237O-1731920432182.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705343O-1731920437716.jpg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2.jpeg"
+          ],
+                      "bedrooms": 3,
+                      "bathrooms": 2,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "12th", 
+                      "details": "A beautiful 3-bedroom apartment in the upscale locality of Hyderabad, featuring modern amenities and a spacious layout."
+                    },
+                    {
+                      "id": 72,
+                      "location": "Pune, Maharashtra, India", 
+                      "type": "Flat",
+                      "price": "₹5,500,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26583/4/531664515O-1731913863446.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/4/531664825O-1731913870213.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665151O-1731913875820.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665033O-1731913875954.jpg"
+          ],
+                      "bedrooms": 2,
+                      "bathrooms": 2,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "Not Mentioned", 
+                      "details": "A cozy 2-bedroom apartment in Pune with easy access to schools, parks, and shopping centers."
+                    },
+                    {
+                      "id": 73,
+                      "location": "Chennai, Tamil Nadu, India", 
+                      "type": "Villa",
+                      "price": "₹7,500,000",
+                      "main_image": "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/i0xv4vow.jpg",
+                      "images": [
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/qbjf9pq5.jpeg",
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/3afxk4qz.jpg",
+                        "https://imagecdn.99acres.com/media1/26583/5/531665751O-1731913872844.jpg"
+                      ],                 
+                      "bedrooms": "3",
+                      "bathrooms": "2",
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "Not Mentioned", 
+                      "details": "A plot of Villa in the fast-developing area of Chennai, perfect for Flat or Appartment development."
+                    },
+                    {
+                      "id": 74,
+                      "location": "Ahmedabad, Gujarat, India", 
+                      "type": "Flat",
+                      "price": "₹9,000,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680753O-1731918080694.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26584/7/531687583O-1731919274512.jpg",
+            "https://imagecdn.99acres.com/media1/26584/1/531681045O-1731918087380.jpg",
+            "https://imagecdn.99acres.com/media1/26584/2/531682537O-1731918080106.jpg"
+          ],
+                      "bedrooms": 4,
+                      "bathrooms": 3,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "15th", 
+                      "details": "A modern 4-bedroom villa in Ahmedabad with a swimming pool, large garden, and easy access to main roads."
+                    },
+                    {
+                      "id": 75,
+                      "location": "Kolkata, West Bengal, India", 
+                      "type": "Appartment",
+                      "price": "₹10,500,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680561O-1731918067083.jpg",
+                      "images": [
+                        "https://imagecdn.99acres.com/media1/26583/19/531679947O-1731918074046.jpg",
+                        "https://imagecdn.99acres.com/media1/26584/0/531680461O-1731918062464.jpg",
+                        "https://imagecdn.99acres.com/media1/26584/0/531680375O-1731918081432.jpg"
+                      ],
+                      "bedrooms": "3",
+                      "bathrooms": "2",
+                      "furnish_type" : "Semi-Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "Not Mentioned", 
+                      "details": "A prime Appartment building in the heart of Kolkata, ideal for office or retail space."
+                    },
+                    {
+                      "id": 76,
+                      "location": "Jaipur, Rajasthan, India", 
+                      "type": "Flat",
+                      "price": "₹11,000,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26584/7/531687453O-1731919280772.jpg",
+                      "images": [
+                        "https://imagecdn.99acres.com/media1/26583/19/531679959O-1731918074641.jpg",
+                        "https://imagecdn.99acres.com/media1/26584/0/531680257O-1731918077746.jpg",
+                        "https://imagecdn.99acres.com/media1/26584/0/531680517O-1731918082196.jpg"
+                      ],
+                      "bedrooms": 5,
+                      "bathrooms": 4,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "16th", 
+                      "details": "A luxurious 5-bedroom mansion in Jaipur with a beautiful garden and a private pool."
+                    },
+                    {
+                      "id": 77,
+                      "location": "Surat, Gujarat, India", 
+                      "type": "Flat",
+                      "price": "₹6,000,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26576/17/531537341O-1731837855412.jpg",
+                      "images": [
+                        "https://imagecdn.99acres.com/media1/26576/17/531537343O-1731837848530.jpg",
+                        "https://imagecdn.99acres.com/media1/26576/17/531537353O-1731837858733.jpg",
+                        "https://imagecdn.99acres.com/media1/26576/17/531537345O-1731837857753.jpg"
+                      ],
+                      "bedrooms": 3,
+                      "bathrooms": 2,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "18th", 
+                      "details": "A 3-bedroom apartment in Surat with spacious interiors and a balcony offering scenic views of the city."
+                    },
+                    {
+                      "id": 78,
+                      "location": "Lucknow, Uttar Pradesh, India", 
+                      "type": "Appartment",
+                      "price": "₹4,500,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+                      "images": [
+                        "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+                        "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+                        "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+                      ],
+                      "bedrooms": "3",
+                      "bathrooms": "2",
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "Not Mentioned", 
+                      "details": "A Appartment office space located in the prime business district of Lucknow."
+                    },
+                    {
+                      "id": 79,
+                      "location": "Noida, Uttar Pradesh,India", 
+                      "type": "Flat",
+                      "price": "₹8,200,000",
+                      "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/mt8lcd0_1714997278_490446558_optOrig.jpg",
+        "images": [
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/elatn1w_1714997280_490446572_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/vswcpew_1714997280_490446582_optOrig.jpg",
+          "https://newprojects.99acres.com/projects/county_group/county_115/images/mnuhb9f_1714997351_490447082_optOrig.jpg"
+        ],
+                      "bedrooms": 4,
+                      "bathrooms": 3,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "3rd", 
+                      "details": "A spacious 4-bedroom apartment in Noida with premium amenities and a large living area."
+                    },
+                    {
+                      "id": 80,
+                      "location": "Chandigarh, Chandigarh",
+                      "state": "Chandigarh",
+                      "country": "India",
+                      "type": "Villa",
+                      "price": "₹12,000,000",
+                      "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+                      "images": [
+                        "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+                        "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+                        "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+                      ],
+                      "bedrooms": "3",
+                      "bathrooms": "2",
+                      "details": "A prime plot of Villa in Chandigarh, perfect for a luxury Flat project."
+                    },
+                    {
+                      "id": 81,
+                      "location": "Visakhapatnam, Andhra Pradesh, India", 
+                      "type": "Flat",
+                      "price": "₹7,800,000",
+                      "main_image": "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/nghrv6s_1730973256_529255101_optOrig.jpg",
+                      "images": [
+                        "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/oyvufkz_1713954603_488108334_optOrig.jpg",
+                        "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/akimawy_1713954603_488108338_optOrig.jpg",
+                        "https://newprojects.99acres.com/projects/experion_developers/experion_sector_45_noida/images/ftzonsm_1713954603_488108344_optOrig.jpg"
+                      ],
+                      "bedrooms": 3,
+                      "bathrooms": 2,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "19th", 
+                      "details": "A luxurious 3-bedroom villa with a sea view, located in Visakhapatnam."
+                    },
+                    {
+                      "id": 82,
+                      "location": "Bhopal, Madhya Pradesh, India", 
+                      "type": "Appartment",
+                      "price": "₹5,000,000",
+                      "main_image": "https://newprojects.99acres.com/projects/unknown/county_one_o_seven/images/a9s63cd_1732862912_534266043_optOrig.jpg",
+                      "images": [
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/uohm9sg_1735041103_541571229_optOrig.jpg",
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2_optOrig.jpeg",
+                        "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/eutf0299_optOrig.jpeg"
+                      ],
+                      "bedrooms": "3",
+                      "bathrooms": "2",
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "Not Mentioned", 
+                      "details": "A Appartment space in Bhopal suitable for retail stores or office use."
+                    },
+                    {
+                      "id": 83,
+                      "location": "Vadodara, Gujarat,India", 
+                      "type": "Flat",
+                      "price": "₹7,200,000",
+                      "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705249O-1731920440007.jpg",
+                      "images": [
+                        "https://imagecdn.99acres.com/media1/26585/5/531705375O-1731920438316.jpg",
+                        "https://imagecdn.99acres.com/media1/26585/5/531705347O-1731920439539.jpg",
+                        "https://imagecdn.99acres.com/media1/26585/5/531705261O-1731920483067.jpg"
+                      ],
+                      "bedrooms": 4,
+                      "bathrooms": 3,
+                      "furnish_type" : "Furnished",
+                      "status" : "Ready to Move",
+                      "parking" : "1 Covered",
+                      "super_area": "1,500 sqft",
+                      "floor" : "18th", 
+                      "details": "A beautiful 4-bedroom home in Vadodara, featuring a spacious garden and modern facilities."
+                    },
+                    {
+                        "id": 84,
+                        "location": "Rajkot, Gujarat,India", 
+                        "type": "Flat",
+                        "price": "₹6,800,000",
+                        "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705361O-1731920424240.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26585/5/531705237O-1731920432182.jpg",
+            "https://imagecdn.99acres.com/media1/26585/5/531705343O-1731920437716.jpg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/my2mi4b2.jpeg"
+          ],
+                        "bedrooms": 3,
+                        "bathrooms": 2,
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "Ground Floor", 
+                        "details": "A stylish 3-bedroom apartment in Rajkot with modern amenities and a spacious living area."
+                      },
+                      {
+                        "id": 85,
+                        "location": "Indore, Madhya Pradesh, India", 
+                        "type": "Villa",
+                        "price": "₹4,500,000",
+                        "main_image": "https://imagecdn.99acres.com/media1/26583/4/531664515O-1731913863446.jpg",
+                        "images": [
+                          "https://imagecdn.99acres.com/media1/26583/4/531664825O-1731913870213.jpg",
+                          "https://imagecdn.99acres.com/media1/26583/5/531665151O-1731913875820.jpg",
+                          "https://imagecdn.99acres.com/media1/26583/5/531665033O-1731913875954.jpg"
+                        ],
+                        "bedrooms": "3",
+                        "bathrooms": "2",
+                        "furnish_type" : "Semi-Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "Not Mentioned", 
+                        "details": "A Appartment retail space located in a prime area of Indore, ideal for shops or offices."
+                      },
+                      {
+                        "id": 86,
+                        "location": "Nagpur, Maharashtra, India", 
+                        "type": "Flat",
+                        "price": "₹5,200,000",
+                        "main_image": "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/i0xv4vow.jpg",
+          "images": [
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/qbjf9pq5.jpeg",
+            "https://newprojects.99acres.com/projects/dkrrish_builders/dkrrish_green_beauty_farms/images/3afxk4qz.jpg",
+            "https://imagecdn.99acres.com/media1/26583/5/531665751O-1731913872844.jpg"
+          ],
+                        "bedrooms": 3,
+                        "bathrooms": 2,
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "18th", 
+                        "details": "A modern 3-bedroom apartment in Nagpur, offering great amenities and easy access to public transportation."
+                      },
+                      {
+                        "id": 87,
+                        "location": "Mysuru, Karnataka, India", 
+                        "type": "Flat",
+                        "price": "₹6,500,000",
+                        "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680753O-1731918080694.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26584/7/531687583O-1731919274512.jpg",
+            "https://imagecdn.99acres.com/media1/26584/1/531681045O-1731918087380.jpg",
+            "https://imagecdn.99acres.com/media1/26584/2/531682537O-1731918080106.jpg"
+          ],
+                        "bedrooms": 4,
+                        "bathrooms": 3,
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "12th", 
+                        "details": "A spacious 4-bedroom house in Mysuru, featuring a garden and a private parking area."
+                      },
+                      {
+                        "id": 88,
+                        "location": "Gurgaon, Haryana, India", 
+                        "type": "Appartment",
+                        "price": "₹25,000,000",
+                        "main_image": "https://imagecdn.99acres.com/media1/26584/0/531680561O-1731918067083.jpg",
+                        "images": [
+                          "https://imagecdn.99acres.com/media1/26583/19/531679947O-1731918074046.jpg",
+                          "https://imagecdn.99acres.com/media1/26584/0/531680461O-1731918062464.jpg",
+                          "https://imagecdn.99acres.com/media1/26584/0/531680375O-1731918081432.jpg"
+                        ],
+                        "bedrooms": "3",
+                        "bathrooms": "2",
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "Not Mentioned", 
+                        "details": "A high-end Appartment office space in Gurgaon, located in a prime business district."
+                      },
+                      {
+                        "id": 89,
+                        "location": "Coimbatore, Tamil Nadu,India", 
+                        "type": "Flat",
+                        "price": "₹4,800,000",
+                        "main_image": "https://imagecdn.99acres.com/media1/26584/7/531687453O-1731919280772.jpg",
+          "images": [
+            "https://imagecdn.99acres.com/media1/26583/19/531679959O-1731918074641.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680257O-1731918077746.jpg",
+            "https://imagecdn.99acres.com/media1/26584/0/531680517O-1731918082196.jpg"
+          ],
+                        "bedrooms": 2,
+                        "bathrooms": 1,
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "Ground Floor", 
+                        "details": "A cozy 2-bedroom apartment in Coimbatore, perfect for small families, with easy access to major roads."
+                      },
+                      {
+                        "id": 90,
+                        "location": "Kochi, Kerala, India", 
+                        "type": "Villa",
+                        "price": "₹10,000,000",
+                        "main_image": "https://imagecdn.99acres.com/media1/26576/17/531537341O-1731837855412.jpg",
+                        "images": [
+                          "https://imagecdn.99acres.com/media1/26576/17/531537343O-1731837848530.jpg",
+                          "https://imagecdn.99acres.com/media1/26576/17/531537353O-1731837858733.jpg",
+                          "https://imagecdn.99acres.com/media1/26576/17/531537345O-1731837857753.jpg"
+                        ],
+                        "bedrooms": "3",
+                        "bathrooms": "2",
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "Not Mentioned", 
+                        "details": "A plot of Villa in Kochi with potential for Appartment or Flat development, located near the city center."
+                      },
+                      {
+                        "id": 91,
+                        "location": "Vadodara, Gujarat, India", 
+                        "type": "Flat",
+                        "price": "₹8,400,000",
+                        "main_image": "https://imagecdn.99acres.com/media1/26585/5/531705651O-1731920429405.jpg",
+                        "images": [
+                          "https://imagecdn.99acres.com/media1/26585/5/531705631O-1731920427682.jpg",
+                          "https://imagecdn.99acres.com/media1/26585/5/531705657O-1731920416202.jpg",
+                          "https://imagecdn.99acres.com/media1/26585/5/531705659O-1731920449507.jpg"
+                        ],
+                        "bedrooms": 4,
+                        "bathrooms": 3,
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "Ground Floor", 
+                        "details": "A modern 4-bedroom house in Vadodara with a large garden and open living space, perfect for families."
+                      },
+                      {
+                        "id": 92,
+                        "location": "Faridabad, Haryana,India", 
+                        "type": "Flat",
+                        "price": "₹5,800,000",
+                        "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/mt8lcd0_1714997278_490446558_optOrig.jpg",
+                        "images": [
+                          "https://newprojects.99acres.com/projects/county_group/county_115/images/elatn1w_1714997280_490446572_optOrig.jpg",
+                          "https://newprojects.99acres.com/projects/county_group/county_115/images/vswcpew_1714997280_490446582_optOrig.jpg",
+                          "https://newprojects.99acres.com/projects/county_group/county_115/images/mnuhb9f_1714997351_490447082_optOrig.jpg"
+                        ],
+                        "bedrooms": 3,
+                        "bathrooms": 2,
+                        "furnish_type" : "Furnished",
+                        "status" : "Ready to Move",
+                        "parking" : "1 Covered",
+                        "super_area": "1,500 sqft",
+                        "floor" : "1st", 
+                        "details": "A 3-bedroom apartment in Faridabad with excellent amenities and close proximity to schools and parks."
+                      },
+                      
+                  {
+                    "id": 93,
+                    "location": "Ranchi, Jharkhand,India", 
+                    "type": "Appartment",
+                    "price": "₹9,200,000",
+                    "main_image": "https://newprojects.99acres.com/projects/county_group/county_115/images/bdleita_1733915845_537104231_optOrig.jpg",
+                    "images": [
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/qvvrkww_1714997281_490446594_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/5grsdzn_1714997279_490446566_optOrig.jpg",
+                      "https://newprojects.99acres.com/projects/county_group/county_115/images/v0zms7t_1714997280_490446580_optOrig.jpg"
+                    ],
+                    "bedrooms": "3",
+                    "bathrooms": "2",
+                    "furnish_type" : "Furnished",
+                    "status" : "Ready to Move",
+                    "parking" : "1 Covered",
+                    "super_area": "1,500 sqft",
+                    "floor" : "Not Mentioned", 
+                    "details": "A Appartment property in Ranchi, ideal for setting up a retail shop or office space."
+                  }           
+    ]
+  }
+  
